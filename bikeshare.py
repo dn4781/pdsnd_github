@@ -93,7 +93,7 @@ def load_data(city, month, day):
 
 
 def time_stats(df, city):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays statistics on the most frequent date and times of travel."""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()

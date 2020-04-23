@@ -1,10 +1,10 @@
 ### DATE CREATED
 Created on 4/22/2020
 
-### Udacity Github Bikeshare Project 3
+### PROJECT TITLE
 Udacity Github Bikeshare Project 3
 
-### Work with GIT, GITHUB and Python in creating a version control project
+### PROJECT DESCRIPTION
 Work with GIT, GITHUB and Python in creating a version control project
 
 ### Files used

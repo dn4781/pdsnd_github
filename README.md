@@ -1,5 +1,5 @@
-### Created 4/22/2020
-Created 4/22/2020
+### DATE CREATED
+Created on 4/22/2020
 
 ### Udacity Github Bikeshare Project 3
 Udacity Github Bikeshare Project 3

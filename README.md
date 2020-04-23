@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### Udacity Github Bikeshare Project 3
 Replace the Project Title
 
-### Description
+### Work with GIT, GITHUB and Python in creating a version control project
 Describe what your project is about and what it does
 
 ### Files used
